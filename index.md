@@ -6,3 +6,4 @@
 ### 1. 基础知识
 
 - [1.1 操作系统简介](./OS/BasicKnowledge/1.Introduction/1.Introduction.md)：本部分简单介绍了操作系统是什么？以及操作系统包含什么？以及操作系统做了什么事情？使读者对操作系统有个基础认识
+- [1.2 进程调度](./OS/BasicKnowledge/2.ProcessManage/2.ProcessManage.md)：本部分简单介绍进程的相关知识，以及进程调度的基本算法。
