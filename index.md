@@ -9,3 +9,4 @@
 - 1.2 进程调度：本部分简单介绍进程的相关知识，以及进程调度的基本算法。
   - 1.2.1 [进程基本概念](./OS/BasicKnowledge/2.ProcessManage/2-1.Concept/2-1.Concept.md)
   - 1.2.2 [进程调度基本算法](./OS/BasicKnowledge/2.ProcessManage/2-2.Scheduling/2-2.Scheduling.md)
+  - 1.2.3 [进程同步异步相关](./OS/BasicKnowledge/2.ProcessManage/2-3.Synchronization/2-3.Synchronization.md)
