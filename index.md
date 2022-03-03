@@ -11,3 +11,4 @@
   - 1.2.2 [进程调度基本算法](./OS/BasicKnowledge/2.ProcessManage/2-2.Scheduling/2-2.Scheduling.md)
   - 1.2.3 [进程同步异步相关](./OS/BasicKnowledge/2.ProcessManage/2-3.Synchronization/2-3.Synchronization.md)
   - 1.2.4 [死锁相关](./OS/BasicKnowledge/2.ProcessManage/2-4.DeadLock/2-4.DeadLock.md)
+- 1.3 [内存管理](./OS/BasicKnowledge/3.StorageManage/1.StorageManage.md)
